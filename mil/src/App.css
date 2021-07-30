@@ -1,0 +1,71 @@
+
+.App {
+  min-height: 300px; width: 99%;  margin:  300px;
+  display: flexbox;
+ font-size: 18px;
+ font-style: normal;
+ font-weight: 400;
+ line-height: 200%;
+ text-align: left; 
+ background-color: rgb(237, 238, 238);
+ 
+}
+
+#Fater {  
+  text-align: center;
+
+}
+
+#Kids {
+  text-align: center;
+
+}
+
+#Mather {
+text-align: center;
+}
+
+button{ height: 60px;
+  width: 155px;
+  left: 300px;
+  top: 927px;
+  border-radius: 0px;
+  position: block;
+}
+
+
+
+
+input { 
+  width: 5cm;  border-color: rgb(238, 243, 247); 
+  border: none;
+
+  
+}  
+
+
+
+p {
+margin-top: 3em;
+font-weight: bold;
+ 
+
+ font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 17,07px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+
+}
+
+
+::placeholder {
+  color: rgb(2, 2, 2);
+  font-size: 1em;
+  font-weight: bold;
+}
